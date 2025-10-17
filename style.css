@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
+
+.p {
+  font-weight: bold;
+}
+
+.footer {
+  font-size: smaller;
+}
